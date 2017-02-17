@@ -475,8 +475,8 @@
        inkscape:vp_z="1 : 0.5 : 1"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
        id="perspective3083-79" /></defs><sodipodi:namedview
-     inkscape:window-height="744"
-     inkscape:window-width="1301"
+     inkscape:window-height="1057"
+     inkscape:window-width="1858"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -486,11 +486,11 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="0.64988713"
-     inkscape:cx="143.40148"
-     inkscape:cy="395.06268"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:zoom="2.5995485"
+     inkscape:cx="426.24015"
+     inkscape:cy="321.03295"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:current-layer="svg2242"
      showgrid="false"
      inkscape:window-maximized="1"
@@ -4064,7 +4064,7 @@
      id="path4727"
      cx="271.88806"
      cy="270.58447"
-     style="fill:none;stroke:#0000ff;stroke-width:0.8503937;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#0000ff;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      r="252.91223" /><rect
      inkscape:tile-y0="75.793738"
      inkscape:tile-x0="256.24193"
@@ -4076,7 +4076,7 @@
      height="56.337334"
      width="27.990875"
      id="use5518"
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.63904607;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.02834646;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      inkscape:tile-cx="271.83249"
      inkscape:tile-cy="270.53529"
      inkscape:tile-w="31.181103"
@@ -4088,7 +4088,7 @@
      cy="38.370949"
      cx="271.96262"
      id="use5425-7"
-     style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      r="7.6071777"
      inkscape:tile-cx="271.88929"
      inkscape:tile-cy="270.60142"
@@ -4104,7 +4104,7 @@
      inkscape:transform-center-y="-160.40463"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4115,7 +4115,7 @@
      inkscape:transform-center-y="-110.03961"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4126,7 +4126,7 @@
      inkscape:transform-center-y="-34.682728"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4137,7 +4137,7 @@
      inkscape:transform-center-y="54.193608"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4148,7 +4148,7 @@
      inkscape:transform-center-y="143.05878"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4159,7 +4159,7 @@
      inkscape:transform-center-y="218.38387"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4170,7 +4170,7 @@
      inkscape:transform-center-y="268.70132"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4181,7 +4181,7 @@
      inkscape:transform-center-y="286.35075"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4192,7 +4192,7 @@
      inkscape:transform-center-y="268.6452"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4203,7 +4203,7 @@
      inkscape:transform-center-y="218.28017"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4214,7 +4214,7 @@
      inkscape:transform-center-y="142.9233"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4225,7 +4225,7 @@
      inkscape:transform-center-y="54.046962"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4236,7 +4236,7 @@
      inkscape:transform-center-y="-34.81821"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4247,7 +4247,7 @@
      inkscape:transform-center-y="-110.14331"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5425-7"
@@ -4258,17 +4258,7 @@
      inkscape:transform-center-y="-160.46076"
      width="100%"
      height="100%"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none" /><use
-     x="0"
-     y="0"
-     inkscape:tiled-clone-of="#use5518"
-     xlink:href="#use5518"
-     id="use5271"
-     inkscape:transform-center-x="-60.618775"
-     inkscape:transform-center-y="-97.99305"
-     width="100%"
-     height="100%"
-     style="stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none;stroke:#0000ff;stroke-opacity:1" /><use
+     style="stroke:#0000ff;stroke-opacity:1;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none" /><use
      x="0"
      y="0"
      inkscape:tiled-clone-of="#use5518"
@@ -4391,7 +4381,7 @@
      height="100%"
      style="stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none;stroke:#0000ff;stroke-opacity:1" /><circle
      r="12.67863"
-     style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.56692914;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.93"
+     style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.02834646;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.93"
      id="use5233-3"
      cx="271.88806"
      cy="270.58447"
